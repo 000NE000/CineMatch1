@@ -1,4 +1,4 @@
-📌 1. CS 개념 정리
+brew services start postgresql📌 1. CS 개념 정리
 
 1️⃣ 환경 변수 (Environment Variables)
 

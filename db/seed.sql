@@ -1,6 +1,8 @@
 CREATE DATABASE MovieAnalyticsDB;
 
-\c MovieAnalyticsDB-- Master Reference Tables
+\c MovieAnalyticsDB
+
+-- Master Reference Tables
 
 CREATE TABLE TriggerMaster (
     TriggerID SERIAL PRIMARY KEY,
