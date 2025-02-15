@@ -7,20 +7,13 @@ def get_plot_of_movies():
     column_names = ['Wikipedia_movie_ID', 'Freebase_movie_ID', 'movie_title', 'release_date', 'revenue', 'runtime', 'language', 'countries', 'genres']
     column_to_remove = ['Freebase_movie_ID', 'release_date', 'revenue', 'runtime', 'language', 'countries']
 
-    movie_narrative = []
 
     with open('../../input/movie.metadata.tsv') as f:
         df = pd.read_csv(f, sep='\t', header=None, names=column_names)
         df_meta_clean = df.drop(column_to_remove, axis=1)
         dict_df = df_meta_clean.to_dict('records')
 
-        for entry in dict_df:
-            if isinstance(entry['genres'], str):
-                try:
-                    genres_dict = ast.literal_eval(entry['genres']) #실제 python object로 변환
-                    entry['genres'] = list(genres_dict.values())
-                except:
-                    entry['genres'] = []
+        dict_df['genres'] = dict_df['genres'].apply(extract_genre_values)
 
         plot_dict = {}
         plot_summaries_path = "../../input/plot_summaries.txt"
@@ -37,3 +30,10 @@ def get_plot_of_movies():
         # merge two temp_dataset
         df_combined = pd.merge(df_meta_clean, df_plot, on='Wikipedia_movie_ID', how="inner")
         return df_combined
+
+def extract_genre_values(genre_data):
+    if isinstance(genre_data, list):  # Check if it's a list
+        return [val for d in genre_data if isinstance(d, dict) for val in d.values()]
+    elif isinstance(genre_data, dict):  # Handle single dictionary case
+        return list(genre_data.values())
+    return []
