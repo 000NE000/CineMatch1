@@ -4,7 +4,7 @@ from data.processing.preprocessing.sentence_segmentation import segment_text
 import pandas as pd
 import nltk
 
-from db.mongodb import get_mongo_collection,store_mongoDB
+from db.mongodb import store_mongoDB
 
 nltk.download('punkt')
 nltk.download('punkt_tab')
@@ -19,8 +19,6 @@ df_plot["segmented_sentences"] = df_plot["plot"].apply(segment_text)
 #3th. Named Entity Recognition (NER)
 
 
+#final. store to MongoDB
+#store_mongoDB(df_plot, "movies")
 
-# df_plot["num_segments"] = df_plot["segmented_sentences"].apply(len)
-# print(df_plot["num_segments"].mean()) #15.6 -> 7.
-
-print(df_plot.iloc[0])
