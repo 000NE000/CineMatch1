@@ -16,8 +16,6 @@ df_plot["plot"] = df_plot["plot"].apply(clean_text)
 #2nd.sentence segmentation
 df_plot["segmented_sentences"] = df_plot["plot"].apply(segment_text)
 
-#3th. Named Entity Recognition (NER)
-
 
 #final. store to MongoDB
 #store_mongoDB(df_plot, "movies")
