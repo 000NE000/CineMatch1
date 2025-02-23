@@ -12,3 +12,7 @@ MONGODB_CONFIG = {
     "uri": "mongodb://cinematch1_admin:5891@localhost:27017/",
     "db": "MovieNarrativeDB"
 }
+
+GEMINI_CONFIG = {
+    "api_key": "AIzaSyCoeclsmdFbjGeX23uTASjmQ7Ivf2Xi7qQ"
+}
