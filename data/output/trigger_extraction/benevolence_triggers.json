@@ -1,0 +1,522 @@
+[
+  {
+    "uid": 3055,
+    "scenario": "not liking my foster dog",
+    "Trigger(s)": ["Dislike"]
+  },
+  {
+    "uid": 3060,
+    "scenario": "not giving my co-worker a ride home and help her carry a cupboard for 10 euros",
+    "Trigger(s)": ["Unhelpfulness"]
+  },
+  {
+    "uid": 3062,
+    "scenario": "not wanting to tell anyone when my wife goes into labor",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 3058,
+    "scenario": "not wanting to forgive a (former) friend",
+    "Trigger(s)": ["Resentment"]
+  },
+  {
+    "uid": 3061,
+    "scenario": "not wanting to throw a huge and expensive party for my daughter's first birthday",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 3070,
+    "scenario": "'ruining' a project because Koreans find it offensive",
+    "Trigger(s)": ["Empathy"]
+  },
+  {
+    "uid": 3065,
+    "scenario": "not telling my friend I've started seeing a mutual friend",
+    "Trigger(s)": ["Deception"]
+  },
+  {
+    "uid": 3068,
+    "scenario": "not wanting to enable my grandparents hurting themselves",
+    "Trigger(s)": ["Indifference"]
+  },
+  {
+    "uid": 3064,
+    "scenario": "not talking to my parents because they are using me... but being ?! maybe I'm the bitch... tell me please",
+    "Trigger(s)": ["Resentment"]
+  },
+  {
+    "uid": 3063,
+    "scenario": "making a (decent) divorce joke in front of my friend with recently divorced parents",
+    "Trigger(s)": ["Inappropriate Humor"]
+  },
+  {
+    "uid": 3066,
+    "scenario": "ending a friendship after he made a joke I didn't find funny",
+    "Trigger(s)": ["Rejection"]
+  },
+  {
+    "uid": 3069,
+    "scenario": "wanting to split the Bill on a first date",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 3067,
+    "scenario": "wanting to cut ties with my friends",
+    "Trigger(s)": ["Abandonment"]
+  },
+  {
+    "uid": 5311,
+    "scenario": "asking my wife to ask my mother in law to apologize to me",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 5322,
+    "scenario": "sending a friend of a friend out of my house and rage at him when he puked in my house while we're stoned. and not offering my couch if he couldn't come home",
+    "Trigger(s)": ["Harshness"]
+  },
+  {
+    "uid": 5312,
+    "scenario": "blowing off my girlfriend and her parents for lunch",
+    "Trigger(s)": ["Disregard"]
+  },
+  {
+    "uid": 5315,
+    "scenario": "taking my nephew to a prostitute behind his parents' back",
+    "Trigger(s)": ["Exploitation"]
+  },
+  {
+    "uid": 5320,
+    "scenario": "making sure my group members don't get credit for a project they didn't do",
+    "Trigger(s)": ["Fairness"]
+  },
+  {
+    "uid": 5323,
+    "scenario": "reporting a classmate for cheating",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 5319,
+    "scenario": "having beef with my grandma when she hasn't really wronged me specifically",
+    "Trigger(s)": ["Conflict"]
+  },
+  {
+    "uid": 5324,
+    "scenario": "suggesting that my grandfather should know that he has alzheimer and parkinson, and that euthanasia is an option if he so wants it",
+    "Trigger(s)": ["Compassion"]
+  },
+  {
+    "uid": 3086,
+    "scenario": "telling my friend's parents about her relationship as revenge",
+    "Trigger(s)": ["Revenge"]
+  },
+  {
+    "uid": 3085,
+    "scenario": "asking my mom to pay for a missing item in a parcel she signed for",
+    "Trigger(s)": ["Manipulation"]
+  },
+  {
+    "uid": 3081,
+    "scenario": "telling a 28 year old woman she doesn't get a birthday week",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 3082,
+    "scenario": "being a little pouty because my brother won't pick me up from my train",
+    "Trigger(s)": ["Pouting"]
+  },
+  {
+    "uid": 3083,
+    "scenario": "wanting to cut ties with my close friend of 4 years because I don't want to deal with his drama anymore",
+    "Trigger(s)": ["Abandonment"]
+  },
+  {
+    "uid": 3084,
+    "scenario": "refusing to help my brother collect chopped wood",
+    "Trigger(s)": ["Unhelpfulness"]
+  },
+  {
+    "uid": 3088,
+    "scenario": "believing that my mom is trying to guilt me into pleading the fifth",
+    "Trigger(s)": ["Guilt-tripping"]
+  },
+  {
+    "uid": 3087,
+    "scenario": "telling my boyfriends parents he used an egg donor",
+    "Trigger(s)": ["Intrusiveness"]
+  },
+  {
+    "uid": 5338,
+    "scenario": "demanding my gf, who has never lived on her own, to live on her own first before I move in with her",
+    "Trigger(s)": ["Demanding Change"]
+  },
+  {
+    "uid": 5343,
+    "scenario": "leaving a server because of a prank and then rejoining",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 5336,
+    "scenario": "being concerned about one of my roommate's cat",
+    "Trigger(s)": ["Concern"]
+  },
+  {
+    "uid": 5339,
+    "scenario": "telling my best friend's parents about something she didn't want to talk about",
+    "Trigger(s)": ["Betrayal"]
+  },
+  {
+    "uid": 5344,
+    "scenario": "switching obese people's drink at McDonald's",
+    "Trigger(s)": ["Discrimination"]
+  },
+  {
+    "uid": 5345,
+    "scenario": "feeling more of a connection to one dog and not the other",
+    "Trigger(s)": ["Favoritism"]
+  },
+  {
+    "uid": 5341,
+    "scenario": "not wanting my bf's dad to stay at our studio apt",
+    "Trigger(s)": ["Exclusion"]
+  },
+  {
+    "uid": 3101,
+    "scenario": "throwing my girlfriend under the bus to help someone else",
+    "Trigger(s)": ["Betrayal"]
+  },
+  {
+    "uid": 3105,
+    "scenario": "potentially ending a friendship impulsively",
+    "Trigger(s)": ["Impulsivity"]
+  },
+  {
+    "uid": 3097,
+    "scenario": "not helping my middle school aged child with a school project",
+    "Trigger(s)": ["Neglect"]
+  },
+  {
+    "uid": 3098,
+    "scenario": "avoiding one of my gf's dogs because I think it has pink eye",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 3100,
+    "scenario": "being upset about my parents financial choices",
+    "Trigger(s)": ["Discontent"]
+  },
+  {
+    "uid": 3099,
+    "scenario": "helping other people with it issues",
+    "Trigger(s)": ["Assistance"]
+  },
+  {
+    "uid": 3104,
+    "scenario": "wanting to kick my ex off my family plan",
+    "Trigger(s)": ["Exclusion"]
+  },
+  {
+    "uid": 3102,
+    "scenario": "not giving my professor's email to my classmate who had incurred absence because of medical reasons",
+    "Trigger(s)": ["Uncooperativeness"]
+  },
+  {
+    "uid": 5350,
+    "scenario": "calling out a customer",
+    "Trigger(s)": ["Confrontation"]
+  },
+  {
+    "uid": 5351,
+    "scenario": "giving my roommate 2 weeks to get a job or move the fuck out",
+    "Trigger(s)": ["Ultimatum"]
+  },
+  {
+    "uid": 5357,
+    "scenario": "confronting a lesbian mother about her daughter's sex ed",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 5353,
+    "scenario": "not caring if my ex-wife will not get her medication paid for by the state",
+    "Trigger(s)": ["Indifference"]
+  },
+  {
+    "uid": 5346,
+    "scenario": "telling an homeless that Jesus does not help him",
+    "Trigger(s)": ["Dismissiveness"]
+  },
+  {
+    "uid": 5352,
+    "scenario": "asking my mom to drop my friend off when she was picking me up",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 5358,
+    "scenario": "not wanting to plan/heavily participate in a second baby shower",
+    "Trigger(s)": ["Reluctance"]
+  },
+  {
+    "uid": 3107,
+    "scenario": "calling my stepfather 'daddy' instead of 'dad' to purposefully make him uncomfortable",
+    "Trigger(s)": ["Provocation"]
+  },
+  {
+    "uid": 3112,
+    "scenario": "not visiting my sick uncle",
+    "Trigger(s)": ["Neglect"]
+  },
+  {
+    "uid": 3111,
+    "scenario": "thinking my dads new relationship is gross",
+    "Trigger(s)": ["Disgust"]
+  },
+  {
+    "uid": 3110,
+    "scenario": "telling my parents about my younger brothers binge drinking",
+    "Trigger(s)": ["Concern"]
+  },
+  {
+    "uid": 3113,
+    "scenario": "not helping my brother out while he's going through a divorce",
+    "Trigger(s)": ["Neglect"]
+  },
+  {
+    "uid": 3108,
+    "scenario": "checking out other (animated) girls with my boyfriend next to me",
+    "Trigger(s)": ["Disloyalty"]
+  },
+  {
+    "uid": 3116,
+    "scenario": "pointing out my friend's blackheads",
+    "Trigger(s)": ["Criticism"]
+  },
+  {
+    "uid": 3120,
+    "scenario": "admitting I love my own child more than my girlfriend's children",
+    "Trigger(s)": ["Favoritism"]
+  },
+  {
+    "uid": 3122,
+    "scenario": "being pissed at BIL for refusing to help",
+    "Trigger(s)": ["Anger"]
+  },
+  {
+    "uid": 3119,
+    "scenario": "lying to my dad about loving him",
+    "Trigger(s)": ["Protectiveness"]
+  },
+  {
+    "uid": 3115,
+    "scenario": "getting mad at my dad for locking me outside",
+    "Trigger(s)": ["Anger"]
+  },
+  {
+    "uid": 3121,
+    "scenario": "being angry at my parents for not rejecting me because of previous actions, despite me seeking help for my mental issues",
+    "Trigger(s)": ["Resentment"]
+  },
+  {
+    "uid": 3118,
+    "scenario": "resenting my dad after he got remarried on my birthday and essentially disregards it every year since",
+    "Trigger(s)": ["Resentment"]
+  },
+  {
+    "uid": 3117,
+    "scenario": "not caring if me and my parents don't talk for 20 years",
+    "Trigger(s)": ["Indifference"]
+  },
+  {
+    "uid": 5363,
+    "scenario": "distancing myself from a male friend who won't take 'no' for an answer",
+    "Trigger(s)": ["Boundaries"]
+  },
+  {
+    "uid": 5359,
+    "scenario": "not making it to my boyfriend's surgery",
+    "Trigger(s)": ["Absence"]
+  },
+  {
+    "uid": 5369,
+    "scenario": "not wanting my father to text me every single day",
+    "Trigger(s)": ["Avoidance"]
+  },
+  {
+    "uid": 5368,
+    "scenario": "saying my girlfriend will give her son anxiety",
+    "Trigger(s)": ["Blame"]
+  },
+  {
+    "uid": 5364,
+    "scenario": "refusing to watch over my dad's (and childhood) dog during his vacation",
+    "Trigger(s)": ["Neglect"]
+  },
+  {
+    "uid": 5367,
+    "scenario": "being angry about the way my father has divided his will",
+    "Trigger(s)": ["Anger"]
+  },
+  {
+    "uid": 3128,
+    "scenario": "helping my sister get her cat back",
+    "Trigger(s)": ["Assistance"]
+  },
+  {
+    "uid": 3127,
+    "scenario": "thinking my parents scammed me",
+    "Trigger(s)": ["Distrust"]
+  },
+  {
+    "uid": 3123,
+    "scenario": "not answering the door when my parents visit",
+    "Trigger(s)": ["Avoidance"]
+  },
+  {
+    "uid": 3126,
+    "scenario": "wanting my boyfriend to temporarily stop drinking",
+    "Trigger(s)": ["Concern"]
+  },
+  {
+    "uid": 3130,
+    "scenario": "telling my brother take control of his life and leave his girlfriend",
+    "Trigger(s)": ["Interference"]
+  },
+  {
+    "uid": 3125,
+    "scenario": "disowning my parents",
+    "Trigger(s)": ["Rejection"]
+  },
+  {
+    "uid": 3129,
+    "scenario": "yelling at my mother",
+    "Trigger(s)": ["Confrontation"]
+  },
+  {
+    "uid": 3124,
+    "scenario": "not giving my friend rent money",
+    "Trigger(s)": ["Selfishness"]
+  },
+  {
+    "uid": 5390,
+    "scenario": "spending most of my time with my boyfriend",
+    "Trigger(s)": ["Commitment"]
+  },
+  {
+    "uid": 5381,
+    "scenario": "being annoyed that my parents let my vegan son try cheese and for not letting him try animal products",
+    "Trigger(s)": ["Annoyance"]
+  },
+  {
+    "uid": 5380,
+    "scenario": "wanting my girlfriend to stop looking through unsecured cameras",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 5388,
+    "scenario": "embarrassing my vegan brother over his actions at my party which he said he was not coming to",
+    "Trigger(s)": ["Embarrassment"]
+  },
+  {
+    "uid": 5386,
+    "scenario": "falling out with my brother over his repeated use of my things when I've told him not to mess around with them",
+    "Trigger(s)": ["Conflict"]
+  },
+  {
+    "uid": 3152,
+    "scenario": "lying to my friend about not being in an abusive relationship with her brother and then ending the friendship because she was related to him",
+    "Trigger(s)": ["Deception"]
+  },
+  {
+    "uid": 3155,
+    "scenario": "not wanting to be my little brothers 'parent'",
+    "Trigger(s)": ["Avoidance"]
+  },
+  {
+    "uid": 3148,
+    "scenario": "not wanting my child to learn about horse racing",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 3150,
+    "scenario": "getting mad that my girlfriend won't stand up to her parents",
+    "Trigger(s)": ["Anger"]
+  },
+  {
+    "uid": 3151,
+    "scenario": "not wanting a second child due to Autism",
+    "Trigger(s)": ["Prejudice"]
+  },
+  {
+    "uid": 3153,
+    "scenario": "coming out to my extended family even though my parents don't want me to",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 3149,
+    "scenario": "fighting with my mom constantly",
+    "Trigger(s)": ["Conflict"]
+  },
+  {
+    "uid": 3154,
+    "scenario": "not accepting my brother's apology",
+    "Trigger(s)": ["Resentment"]
+  },
+  {
+    "uid": 3164,
+    "scenario": "fucking losing it with my dad",
+    "Trigger(s)": ["Anger"]
+  },
+  {
+    "uid": 3160,
+    "scenario": "wanting a sincere apology",
+    "Trigger(s)": ["Reconciliation"]
+  },
+  {
+    "uid": 3163,
+    "scenario": "'threatening' to end a close friendship with said friend being severely depressed",
+    "Trigger(s)": ["Threat"]
+  },
+  {
+    "uid": 3159,
+    "scenario": "cutting one of my long-term friends out of my life completely",
+    "Trigger(s)": ["Exclusion"]
+  },
+  {
+    "uid": 3166,
+    "scenario": "essentially rejecting a black woman because she didn't belong to my culture",
+    "Trigger(s)": ["Prejudice"]
+  },
+  {
+    "uid": 3173,
+    "scenario": "helping my dad by breaking into my old home to get my dad his moms rocking chair",
+    "Trigger(s)": ["Unethical Behavior"]
+  },
+  {
+    "uid": 3171,
+    "scenario": "refusing g to give my niece in law free reading lessons",
+    "Trigger(s)": ["Neglect"]
+  },
+  {
+    "uid": 3168,
+    "scenario": "ghosting my friend out of the blue and lying about why",
+    "Trigger(s)": ["Avoidance"]
+  },
+  {
+    "uid": 3170,
+    "scenario": "telling my mother to return a purchase",
+    "Trigger(s)": ["No relevant event"]
+  },
+  {
+    "uid": 3169,
+    "scenario": "not ever wanting kids not just because of how stressful the life of a parent is, but because I know I'd never be a happy person and would never really love them",
+    "Trigger(s)": ["Lack of Affection"]
+  },
+  {
+    "uid": 3165,
+    "scenario": "refusing to live in the same apartament building as my parents",
+    "Trigger(s)": ["Avoidance"]
+  },
+  {
+    "uid": 3167,
+    "scenario": "not wanting to work with my dad today, given that the entire city is closed down and the place where I work should also be",
+    "Trigger(s)": ["No relevant event"]
+  }
+]

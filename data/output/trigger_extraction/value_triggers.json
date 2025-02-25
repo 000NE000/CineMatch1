@@ -1,0 +1,9570 @@
+[
+    {
+        "Trigger(s)": [
+            "Task Completion"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Peer Pressure"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Age Anxiety"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate Desire"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Existential Crisis"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Doubt"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Attraction"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Interaction"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Unmet Expectations"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Disrespect"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Abandonment"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Misguidance"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Boundary Setting"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Risky Decision"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Teasing"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Struggle"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Achievement"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Kindness"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Freedom"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Unhealthy Desire"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Independence"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Urgency"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Guilt"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Addiction"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Vandalism"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Identity Loss"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Neglect"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Excessive Drinking"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Disagreement"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cultural Practice"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Exploitation"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Interpersonal Conflict"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Judgment"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Conflict"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Spontaneous Decision"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Productivity"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Language Barrier"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Infidelity"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Workplace Reporting"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Neglect"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate Humor"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Flirting"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Preparation"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Withdrawal"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Communication Avoidance"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Refusal"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Health Concern"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Animal Cruelty"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Desire for Change"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Enthusiasm"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Personal Entertainment"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Behavioral Judgment"
+        ],
+        "value": "conformity",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Avoidance"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Criticism"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Rudeness"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Defiance"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Life Crisis"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Mountain Climbing",
+            "Sunrise"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Career Choice"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Delayed Holiday Tradition"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Eating Disorder"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Imagining Harm"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Tipping Generously"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Political Discussion"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Using Men's Products"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Controlling Behavior"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Loveless Marriage"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate Behavior"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "No relevant event"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Hopelessness"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sarcasm"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Not Helping"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Holiday Plans"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Nonconformity"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Leading On"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Embracing Sadness"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Extreme Commitment"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Life Purpose"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Failed Theft"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate Request"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Investigation"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Efforts to Change"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Flirting"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Lifetime Commitment"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Ultimatum"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Rejecting Gift"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-hatred"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Time conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Affair refusal"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Belief disrespect"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Vacation dissatisfaction"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental wisdom"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Book return"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Gym scam"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Declining request"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Noise tolerance"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Enjoyable visit"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Cheating discussion"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Espresso prank"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "War effort"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Food delivery"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Judgment"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Police involvement"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lunch secrecy"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate humor"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cheating revelation"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Interruption"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Truck living"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Breakup"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Snapping"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disrespect statement"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Idea critique"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Movie watching"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Money request"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Ecstasy consumption"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Depression acknowledgment"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Expression"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Work Obligation"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Job Preference"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Fear of Authority"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Conflict Avoidance"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Life Change"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Boundary Violation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Fear of Judgment"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Verbal Abuse"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Deprecation"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Insult"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Death Wish"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Criticism"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Safety Concern"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Service Dissatisfaction"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Strain"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Political Belief"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Privacy"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Work Neglect"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Manipulation"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Abandonment"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Suicidal Thoughts"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Flatulence"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Disappointment"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Concern"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lingering Feelings"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Abandonment"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Materialism Judgment"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Betrayal"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Partner's job",
+            "Company policy"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Gun policy",
+            "Home safety"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family obligations",
+            "Mattress argument"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Friend's husband",
+            "Molestation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Intimacy issues",
+            "Emotional state"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Rejection",
+            "Photo sharing"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Messy house"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Personal change"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Study guide",
+            "Classmate"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Gift card",
+            "Project exchange"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Sex reduction"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Sleepover",
+            "Roommate consent"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious uncertainty"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Wealth accumulation",
+            "Brand selling"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Karma achievement"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Fascism badge",
+            "Rioter forgiveness"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Intimacy fear"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Crush approach"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Friend's child",
+            "Communication lapse"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-perception"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family chat",
+            "Health omission"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Ex-partner blame"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Breakfast request"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cheeto abstinence"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Work initiative"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Cigarette abstinence"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Plane interruption"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Purse theft",
+            "School expulsion"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Strict rules"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dog adoption"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Reaction"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Violence",
+            "Need for Justice"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Indifference"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Food Preference"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Health Precaution"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion",
+            "Prioritization"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Grief",
+            "Unexpected Reminder"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Food Preference"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Work-Life Balance"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Companionship"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Identity Expression"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Refusal",
+            "Financial Decision"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Possession",
+            "Admiration"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Ambition"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Preference"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Gesture"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Love"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Concern"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Disappointment"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Friendship Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Patriotism"
+        ],
+        "value": "conformity",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Boundary Violation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dare",
+            "Adventure"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Last Minute Change",
+            "Child Disappointment"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Decision"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Refusal",
+            "Relationship Conflict"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Tradition"
+        ],
+        "value": "conformity",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Opportunity",
+            "Friendship Sacrifice"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Privacy Invasion"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-perception"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Concern for others"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship dissatisfaction"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Career decision"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Honesty with friends"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inability"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social discomfort"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Personal boundaries"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-criticism"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional distress"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Contribution to harm"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional conflict"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social criticism"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Job dissatisfaction"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dreams discouraged"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Positive example"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Fear of becoming"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Support for identity"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of support"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Cultural clash"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social media criticism"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial struggle"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental love envy"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family resentment"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cultural imagination"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family exclusion"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate fantasy"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Setting boundaries"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Loss and consequences"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Not helping"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Ruining photograph"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Not respecting choice"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Honoring assembly"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Losing faith"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Propping feet"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Leaving partner alone"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Despising family"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Wanting presence"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Refusing payment"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Wanting abortion"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Soda preference"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Ceasing contact"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Supporting Israel"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Drinking Coke"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Saving game"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Unorthodox raising"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Abusing frontend"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Band tie refusal"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Disliking humans"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Ruining life"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Wearing earbuds"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Photoshop request"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Not babysitting"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sleeping with stepdad"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Breaking drone"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Being spiked"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Going to beach"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Cheating"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cooking dinner"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Distance"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Physical Aggression"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Ambivalence"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Boundary Violation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Confession Ban"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Substance Use Regulation"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Supportive Friends"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Avoidance"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Imaginative Play"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Resource Retention"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Future Concerns"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Forgiveness"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Surprise Visit"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Future Plans"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Safety Concern"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Party Avoidance"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Divorce Hope"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Technical Issue"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Food Sharing"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Distance"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dream Abandonment"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Suicidal Thoughts"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Moral Violation"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Racial Prejudice"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Eviction"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Health Perception"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Confrontation"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Deception"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-harm"
+        ],
+        "value": "self-direction",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Confrontation"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Complaining"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disobedience"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Refusal"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Appreciation"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Exploitation"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Demand"
+        ],
+        "value": "conformity",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-deprecation"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Abandonment"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Achievement"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Ranting"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Intrusion"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cross-dressing"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Isolation"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Praise"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Neglect"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Violence"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-affirmation"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Deception"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Neglect"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Imagination"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Fantasy"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Defiance"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Neglect"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Academic Decline",
+            "Activity Restriction"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Secret Desire"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Disregard"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Exploitative Act"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Skill Recognition"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion",
+            "Mental Health"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Indifference"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Conflict"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Fear"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dishonesty"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Legal Conflict"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Empathy"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Protective Warning"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Intimidation",
+            "Job Concern"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Discrimination"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Non-participation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Poor Habits"
+        ],
+        "value": "self-direction",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Infatuation"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Adversity"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Fraud"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Life Change"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Neglect"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Rebellion"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Gender Bias"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Provocation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Unsanitary Act"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Kindness"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Visitation"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Affection"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of enthusiasm"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial stability"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Procrastination"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Compliments"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Dislike for service"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Need for help"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family avoidance"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Mixed emotions"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Suicidal thoughts"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Superiority complex"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Slavery advocacy"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Blocking friend"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of acknowledgment"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Pet ultimatum"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial cutoff"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Long-term love"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Elevator refusal"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Responsible parenting"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate behavior"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-hatred"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Friendship difficulties"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Gift giving"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family resentment"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family exclusion"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social media checking"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Child preference"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Foot fetish"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Addiction"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Marriage fear"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Refusal to help"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Providing assistance"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Car repair"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Drug abuse"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cold attitude"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Desire for love"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Loss of happiness"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Unappreciated music"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Jealousy"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Instigating conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Job departure"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Invasion of privacy"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Desire for love"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Aesthetic appreciation"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Loud applause"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-perception"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance behavior"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family estrangement"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Equal opportunity"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Hidden behavior"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Breakup"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disagreement"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Feeling superior"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Unhappiness"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious deceit"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Violent sneezing"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cult belief"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cancelled classes"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Insulting parent"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Consuming Animal Product"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Identity Change"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Change"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Academic Impact"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Harm"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Diet Sabotage"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Rule Enforcement"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Perception"
+        ],
+        "value": "self-direction",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Etiquette"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Envy"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Ghosting"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Service Preference"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Deception"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Property Damage"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Realization"
+        ],
+        "value": "self-direction",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inconsideration"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Harm"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Interruption"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Independence Desire"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Addiction"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Collaboration"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Resignation"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Misuse of Funds"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disrespect"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Negligence"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Death Satisfaction"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Ghosting"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Withholding Benefits"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoiding Responsibility"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Schadenfreude"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Dependency on Alcohol"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Encouraging Independence"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Disconnection"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Numbness"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Weather Condition"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Request for Help"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Forcing Decisions"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Doubt"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Regret"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Conflicted Love"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Embarrassment"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sexual Dissatisfaction"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Superiority Complex"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Kindness"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Happiness Struggle"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Nepotism"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Secret Recordings"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Mocking"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Work Resistance"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Harm Urges"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Confrontation"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Positive Outlook"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Ultimatum"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Decision"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Jealousy"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Despair"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Past Identity"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Sabotage"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Passive Aggression"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Secret Indulgence"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Anger"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Public Argument"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parenthood Rejection"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Simple Pleasure"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Burden"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dishonesty"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Insult"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relaxation"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Job Abandonment"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sexual Desire"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Surprise"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Destruction"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Preference"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Job Resignation"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Envy"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Desire for Change"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Joy"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Protection"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Expression of Love"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "No relevant event"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Conflict"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Violence"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Coping Mechanism"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Norm Violation"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Realization"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Selfish Choice"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Direct Rejection"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Teaching"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Infidelity"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Guilt"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Unforgiveness"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Rudeness"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Coercion"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Annoyance"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Burden"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Judgment"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Attachment"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Humor"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Tradition"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Withdrawal"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Jealousy"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Anger"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Discomfort"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Suicidal Thoughts"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Respect"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Celebration"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Conflict"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disruption"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sacrifice"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Intervention"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Meeting Friends",
+            "Organizing Dates"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Death",
+            "Happiness"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Insurance Loss",
+            "Job Termination"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Shift Neglect"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Mocking Coworker"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Voting"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Request",
+            "Car Accident"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Productivity Urge"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Confrontation",
+            "Stranger in Home"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Egalitarian Belief",
+            "Gender Superiority"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Shared Bed"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "College Regret"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Flag Salute"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Jealousy"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Checking on Ex",
+            "Ghosting"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sink Urination"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Food Preference"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Pet Value",
+            "Manager Disagreement"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Community Criticism"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Perception"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Long Trip",
+            "Family Visit"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Breakup",
+            "Self-Hate"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Physical Confrontation"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Harm",
+            "Secret Enjoyment"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Trip Conflict"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Ashes Decision"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emergency Deception"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Psychopathic Traits"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Gratitude Expression"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Educational Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Surrogacy Refusal"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Demanding Space"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Police Encounter"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Life Resentment"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dismissal of Reparations"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Confrontation"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Child Neglect Reporting"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Foot Skin Eating"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Perception"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Refusal to Host"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Rule Violation"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Addiction"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Disagreement"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Baby Aversion"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Roommate Dispute"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cat Rescue"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Holiday Exclusion"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Media Concern"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Issues"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Gym Confrontation"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Regression Feeling"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Unrevealed Unhappiness"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Appreciation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Outburst"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Annoyance"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inner Struggle"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Park Incident"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Education Anxiety"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Personal Change"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Writing Privacy"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Marriage Proposal"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Abortion"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Reckless Lifestyle"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Caretaking Fetish"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Estrangement"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Class Boredom"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Job Disrespect"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Health Diagnosis"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Repaying Parents"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Infidelity"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Girlfriend's Pain"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Rudeness"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Friendship Advice"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Public Outing"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Boundary Setting"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Travel Anxiety"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Criticizing Parent"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Theft"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Sexual Activity"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Obsession"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Changing Friends"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Commitment"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Choice Advocacy"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate Humor"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Theft Admission"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Friend's Complaints"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Status"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Seeking Opinion"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Media Behavior"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Script Writing"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Home Security"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Decision"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Moral Guidance"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Dynamics"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Domestic Responsibility"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Personal Preference"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Motivation"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Helping Others"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Discomfort"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Conflict"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Discomfort"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Personal Frustration"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Conflict"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Sabotage"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Resource Misuse"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Career Decision"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Demand"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cultural Reference"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Physical Sensation"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional State"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Discomfort"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Failure Perception"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Suicidal Ideation"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cheating"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Conflict"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Conflict"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Job Application Fear"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Pride"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Misunderstanding"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Public Discomfort"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Harmful Tradition"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Desire"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Workplace Conflict"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Destruction"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Selfishness"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Criticism"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Anger"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disrespect"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Charity Work"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Image"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate Behavior"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Media Conflict"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Scheduling Conflict"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Mutual Agreement"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Neglect"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Request"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Harmful Wish"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Racial Tension"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Defiance"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Hardship",
+            "Family Responsibility"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Obligation",
+            "Substance Use"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Influence",
+            "Desire for Approval"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Positive Feedback"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Helping Others"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Medical Advice",
+            "Consent Violation"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Interaction"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Need for Assistance",
+            "Independence"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Helping Others"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Expression"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Honesty"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Expression"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Event"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Complaint"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Withdrawal"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Personal Growth"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Conflict"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Indulgence"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Personal Challenge"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Past Trauma"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Workplace Conflict"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Workplace Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Practical Joke"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Interaction"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Obligation"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Defense"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Theft"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Participation"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Affection"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Detachment"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Disconnection"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Enjoyment"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Anticipation"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Collaboration"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Meeting Departure"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Medical Awareness"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Infidelity"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Customer Service Frustration"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Argument"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Life Crisis"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Jealousy"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Secret Relationship"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Procrastination Criticism"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Doubt"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Eviction Desire"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Romantic Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Assault Disclosure"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cheating"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Disappointment"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Suicide Prevention"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Technological Resistance"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Discomfort"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Desperation"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Frugality"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Unconventional Enjoyment"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Disagreement"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Outburst"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Frustration Expression"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Disconnection"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Expression"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Exclusion"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Personal Space"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sexual Desire"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Obligation"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Disrespect"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Gratitude"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Perception"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cultural Prejudice"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Fear of Change"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Life Change"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Desire for Acceptance"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Innovation"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Misogyny"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Criticism"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Friendship Termination"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Norm Violation"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Routine Life"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Animal Freedom"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Expression"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Recommendation"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Frustration"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Destruction"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Misunderstanding"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Destruction"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Encouragement"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Life Ruination"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Excitement"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Neglect"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Violence for Money"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Mental Health Issue"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Disagreement"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Excitement and Anxiety"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Separation"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inability to Help"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Sexual Request"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Life Dissatisfaction"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Loathing"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sibling Exploitation"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Compassion"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Annoyance"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Theft"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Funeral Gathering"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Destructive Thought"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Trouble Induction"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Abandonment"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Stranger's Property"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dream Pursuit"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Fear"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dislike"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate Use"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Love"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Toxic Masculinity"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Pain"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Preservation"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Relapse"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Unpleasant Experience"
+        ],
+        "value": "self-direction",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Defending Family"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Desire for Revenge"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Flirtation"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Tardiness"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Isolation"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Positive Belief"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Cultural Misunderstanding"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Secret Expression"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Constraint"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Expectation"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Disbelief"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-criticism"
+        ],
+        "value": "self-direction",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Concern"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Mocking"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Refusal to Tip"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Neglect"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Aversion"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Nonconformity"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Preference for Texting"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Celebration"
+        ],
+        "value": "conformity",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Equality Desire"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Job Flexibility"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Friendship Strain"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Obligation"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Attention"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Taste Preference"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Age Bias"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Withdrawal"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Romantic Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Eviction",
+            "Noise Complaint"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Blackmail"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Physical Harm",
+            "Happiness"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Dread",
+            "Birthday"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sharing",
+            "Resentment"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Fear",
+            "Motherhood"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Criticism"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Work",
+            "Disinterest"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Friend Zoning"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Spitting",
+            "Disrespect"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Rejection",
+            "Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Superiority"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Confrontation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Eviction"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Jealousy",
+            "Belief"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cheating",
+            "Bet"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Replacement Request"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Body Shaming"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lying",
+            "Regret"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Desire",
+            "Taboo"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Refusal",
+            "Dieting"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Interaction"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Interference"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Positive Feedback"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Cutting Contact"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dismissal"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Equality Argument"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Online Surveillance"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Video Chat"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Time with Son"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Donation Intent"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Jealousy"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Rude Roommate's BF"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Withholding"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Debating"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Request"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Anger at Mom"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Name Change"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-hatred"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Theft"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Leaving Girlfriend"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Roommate Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Pet Ownership"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Identity"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Photo Privacy"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Refusal to Hug"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Negative Belief"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "In Love with Others"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Disconnection"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Passive Aggression"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Mental Health Doubt"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Fishing"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Gym Restriction"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Irritation"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Business Suggestion"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Apple Picking"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Destruction"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Eviction Desire"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disrespect"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Overload"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Fantasy Indulgence"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Dispute"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Blackmail"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Trust Issues"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Helping Others"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Criticism"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Animal Harm"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Resentment"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cultural Gap"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Strain"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dream Abandonment"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Doubt"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Loneliness"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Media Engagement"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Hatred"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Productivity Planning"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Friendship End"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Dislike"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Deception"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Control"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Career Motivation"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Void"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inner Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Reaction"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Fear of Infidelity"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Safety Precaution"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Distance"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disclosure of Secret"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Personality Change"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Competitive Behavior"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Concealment"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Positive Experience"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Neglect"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Impact"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Authority Defiance"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Obsessive Behavior"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Independence Desire"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Silencing"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Denial of Request"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Excessive Teasing"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Personality Change"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Attention Seeking"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Abandonment"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lifestyle Change"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Harm"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Intimacy"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Vandalism"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Help Seeking"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Anticipation"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Online Activity"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Desire for new relationship"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance of responsibility"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "External validation"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial decision"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Mental health boundary"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Jealousy"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Moral correctness"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion from information"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family confrontation"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Overwhelm"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Resource protection"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Future planning"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Conflict resolution"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Romantic relationship"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family support"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Marital dissatisfaction"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial consideration"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional manipulation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Substance use"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Romantic feelings"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social obligation"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Deception tolerance"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship insecurity"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Marital boundary"
+        ],
+        "value": "conformity",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Sexual orientation"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional avoidance"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social withdrawal"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family news"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Fantasy indulgence"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Relocation Request"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Decision"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Health Appointment"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Indifference to Accident"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Perception"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate Behavior"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Rejection"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Workplace Sabotage"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Animal Cruelty"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Reflection"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Communication"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Envy"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Discontent"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Roommate Conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate Behavior"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Team Dynamics"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Preference Expression"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Privacy Assertion"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sleep Deprivation"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Identity Crisis"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Discipline"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Reflection"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Community Support"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Decision"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Pain"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Consequences of Actions"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Constructive Criticism"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Pet Behavior"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Authority Challenge"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Betrayal"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Outing",
+            "Enjoyment"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Pet Removal"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disrespect"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Threat"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Absence"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Friendship"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Desire for Pregnancy"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Gossip"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Political Indifference"
+        ],
+        "value": "self-direction",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Voting Encouragement"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Anger"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Spousal Exploitation"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Instigation"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Conflict"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Theft"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Exploitation"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Forced Surgery"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Sexual Act"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Predatory Behavior"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Absence"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Deception"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Complaining"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Infatuation"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Manipulation"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Food Control"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Dislike"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Neglect"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Argumentation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Leaving Interview"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Injustice System"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Transactional Help"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disregarding Roommate"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Public Warning"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Procrastination"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disloyalty"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Caregiving"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Keeping Refund"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Encouragement"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Respectful Advice"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Security Request"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Pessimism"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Unrequited Love"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Frustration"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Crossdressing"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Work Refusal"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Work Over Relationship"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Disrespect"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Helping Stranger"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Refusal"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Comparison"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-expression"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Deception"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Pet Care"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Ultimatum"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Adoption"
+        ],
+        "value": "conformity",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Romantic Feelings"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Disrespect"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Privacy Invasion"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Reprimanding",
+            "Mocking"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Support"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Excitement"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disrespect"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Annoyance",
+            "Processions"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Candle Tradition"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Cheating",
+            "Self-hate"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Genuine Smile"
+        ],
+        "value": "conformity",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Falling Out"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Coworker Firing"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Kindness Act"
+        ],
+        "value": "conformity",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Following Nationalist"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "War Support"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Support"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Time"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Appreciation",
+            "Reflection"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Privacy Insistence"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Dog Removal"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Elderly Care"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Disapproval"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Trolling"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Freezing"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Hatred"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Outing"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Request to Stop"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Restriction"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Photo Taking"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Uninvited Entry"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Enjoyment"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Suspicion"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Storing guns"
+        ],
+        "value": "self-direction",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Not asking"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Personal dissatisfaction"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance of dining hall"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Using protection"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Ghosting children"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Engaging with posts"
+        ],
+        "value": "conformity",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoiding family meeting"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Living with hoarders"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Expressing atheism"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Criticizing Maid of Honor"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Firing staff member"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Ripping science book"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Leaving project"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Envying ant"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Deleting work"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "In love"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Identity concern"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Breaking bed"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Recommending"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Not blocking"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Roommate conflict"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Grandpa's condition"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Buying pet rat"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Using earbuds"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Dating preference"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Breaking hot tub"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoiding meeting"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Being sarcastic"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Being upset"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Avoidance"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Account Sharing"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Incompatibility"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Protection"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Shared Experience"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Comparison"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Parental Resentment"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Envy"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Public Behavior"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Physical Sensation"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Control"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Deception"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Rebellion"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Curiosity"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Judgment"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Criticism"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Independence"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Disconnection"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Affection"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Erratic Behavior"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Defiance"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Detachment"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Defense"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Struggle"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Confrontation"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Illness"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Violence"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Uncertainty"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Academic Failure"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Deception",
+            "Discarding Items"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Indifference",
+            "Family Illness"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Exclusion Request"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Preference Expression"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Connection"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Risk Avoidance"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Visit",
+            "Lack of Communication"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Control"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Deception",
+            "Sibling Prank"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Conflict"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Disconnection"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Legal Threat"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Life Perspective"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Confrontation Consideration"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Confession"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Dislike of Traditions"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Childhood Ambition"
+        ],
+        "value": "self-direction",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Hatred",
+            "Refusal to Help"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Decoration Request"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Expectation"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Animal Separation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Theft",
+            "Cross-dressing"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Vandalism Intent"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Annoyance"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Decision"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Privacy Request"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Noise Complaint"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Eviction Desire"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Power Abuse"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Investment Loss"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Image"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Mental Health Stigma"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Conflict"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Harm"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate Reaction"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Party Disruption"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Tension"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-Hatred"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Travel Exclusion"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Lack of Sympathy"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Overstimulation"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Betrayal"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Domestic Violence"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cultural Inclusion"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Animal Protection"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Change"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Media Monitoring"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Discontent"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Despair"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Music Enjoyment"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Identity Fraud"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Academic Pressure"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Social Isolation"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Harassment"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Unresolved Conflict"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Fear-Based Decision"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Weather Preference"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Relationship Uncertainty"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Fear of Judgment"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Disregard"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Personal Opinion"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Creative Fear"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Infidelity"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Permission Granted"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Deception"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Trust Issues"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Missed Opportunity"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Family Tension"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Commitment Fear"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Job Transition"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self Reflection"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Preference"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Friendship Ending"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Tipping"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Safety Concern"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Inappropriate Behavior"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Privacy"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Religious Rejection"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Business Anxiety"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Marriage Advice"
+        ],
+        "value": "conformity",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Unhappy Upbringing"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Exercise"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Self Harm"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Depression"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Helping Others"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Childhood Exposure"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Superiority"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Work Refusal"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Public Humiliation"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Belief in racial differences"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disdain for others"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Appreciation of beauty"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Littering"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Withholding trauma"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial request"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Loneliness"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Dietary discomfort"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Ending friendship"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Fixing wiring"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Fear of mother"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Lashing out"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Calling out friendships"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Life dissatisfaction"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Low profile views"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Exposing ex"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Excitement for movie"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Catfishing"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Messing up relationships"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Refusing hug"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Leaving mother"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Confronting cheater"
+        ],
+        "value": "universalism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Lying about actions"
+        ],
+        "value": "self-direction",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Cultural relationship"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Causing harm"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Friendship neglect"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Costume creation"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Pressuring relationship"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Fear of lovelessness"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Police banners"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Destroyed self-confidence"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Younger boyfriend"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Bungee jumping"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Moving to new country"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Love for ex"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Self-made sociopath"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Replacement search"
+        ],
+        "value": "tradition",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family conflict"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Coin collection for rent"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Firing buddy"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Cousin masturbation"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Muting coworker"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Feminine clothing"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Moral impasse"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Crush rejection"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Excited for outing"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Sister hatred"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Nostalgia from photos"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Family member dying"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Quitting job"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Uncertain context"
+        ],
+        "value": "power",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Delivering food"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Social isolation"
+        ],
+        "value": "universalism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Unhygienic practice"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Deleting friend"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Serious problem"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Unconventional urge"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Gift wrapping"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Potential failure"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sick leave"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Unhealthy Habit"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Absence"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disappointment",
+            "Broken Agreement"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Confrontation"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Aggression"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Conflict"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Identity",
+            "Love"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Exposure"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Efficiency"
+        ],
+        "value": "stimulation",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Prejudice"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Investigation"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Emotional Conflict"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Jealousy"
+        ],
+        "value": "hedonism",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sexual Demand"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Distraction"
+        ],
+        "value": "benevolence",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Irritation"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Boundary Setting"
+        ],
+        "value": "conformity",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Disrespect"
+        ],
+        "value": "tradition",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Gratitude"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Ending Relationship"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Affection"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Patriotism"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Career Risk"
+        ],
+        "value": "hedonism",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Exhaustion"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Financial Mismanagement"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Loss of Control"
+        ],
+        "value": "stimulation",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Concern"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Superiority"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Request"
+        ],
+        "value": "security",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Betrayal"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Sobriety Challenge"
+        ],
+        "value": "achievement",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Encouragement"
+        ],
+        "value": "self-direction",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Job Departure"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Psychopathy"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Defense"
+        ],
+        "value": "benevolence",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Petty Revenge"
+        ],
+        "value": "security",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Forced Breakup"
+        ],
+        "value": "power",
+        "label": "1"
+    },
+    {
+        "Trigger(s)": [
+            "Green Card Accusation"
+        ],
+        "value": "achievement",
+        "label": "-1"
+    },
+    {
+        "Trigger(s)": [
+            "Racism"
+        ],
+        "value": "security",
+        "label": "-1"
+    }
+]

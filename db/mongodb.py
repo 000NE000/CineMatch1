@@ -21,5 +21,5 @@ def store_mongoDB(df_combined, collection_name):
 # Example usage
 if __name__ == "__main__":
     collection = get_mongo_collection("trigger_taxonomy")
-    df = pd.read_json('../data/input/trigger_taxonomy.json')
+    df = pd.read_json('../data/input/plot_data/trigger_taxonomy.json')
     store_mongoDB(df, "trigger_taxonomy")
