@@ -1,4 +1,3 @@
-from config.config import GPT_CONFIG
 import pandas as pd
 import openai
 from prompt_trigger_extraction import prompt
@@ -70,7 +69,7 @@ def save_json(data, output_file):
 
 
 # configuration
-csv_file_path = "../data/input/VALUENET_balanced/train_handled_3_part.csv"
+csv_file_path = "../../data/input/VALUENET_balanced/train_handled_3_part.csv"
 prompt_template = prompt
 rows_per_prompt = 30
 annotated_triggers = "../data/output/trigger_extraction/value_triggers.json"

@@ -23,13 +23,5 @@ For each row, produce a JSON object with keys "Trigger(s)", "value", and "label"
 - "Trigger(s)": A list of the identified triggers. If no relevant trigger is found, return ["No relevant event"].
 - "value": The specified value.
 - "label": The specified label.
-
-[Entry Example]
-Input:
-- hedonism, I love finding people whose dogs have died and laughing at them., 1
-
-Output:
-  "Trigger(s)": ["Moral Violation", "Emotional Expression"],
-  "value": "hedonism"
-  "label": "1"
+- "basis expression": The basis for the original expression determined as a trigger
 """
