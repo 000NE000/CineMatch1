@@ -75,7 +75,7 @@ rows_per_prompt = 30
 annotated_triggers = "../data/output/trigger_extraction/value_triggers.json"
 if os.path.exists(annotated_triggers):
     os.remove(annotated_triggers)
-openai.api_key = GPT_CONFIG["api_key"]
+openai.api_key = os.getenv('OPENAI_API_KEY')
 all_responses = []
 
 system_message = {

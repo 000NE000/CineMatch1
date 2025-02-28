@@ -23,5 +23,4 @@ For each row, produce a JSON object with keys "Trigger(s)", "value", and "label"
 - "Trigger(s)": A list of the identified triggers. If no relevant trigger is found, return ["No relevant event"].
 - "value": The specified value.
 - "label": The specified label.
-- "basis expression": The basis for the original expression determined as a trigger
 """
