@@ -1,6 +1,5 @@
 # CineMatch1
-> tkdwns285@gmail.com 하상준 (한양대학교 컴퓨터소프트웨어학부)
-> > https://github.com/000NE000
+
 # 0x01. 프로젝트 개요 (Overview)
 ### 1.1 주제와 동기
 ##### 주요 목표
