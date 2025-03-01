@@ -13,6 +13,6 @@ MONGODB_CONFIG = {
     "db": "MovieNarrativeDB"
 }
 
-GEMINI_CONFIG = {
-    "api_key": "AIzaSyCoeclsmdFbjGeX23uTASjmQ7Ivf2Xi7qQ"
+GPT_CONFIG = {
+    "api_key": os.getenv('OPENAI_API_KEY')
 }
