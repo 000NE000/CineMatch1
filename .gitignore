@@ -1,0 +1,4 @@
+data/input/plot_data/plot_summaries.txt
+data/output/trigger_extraction/essential_plot_data.json
+trigger_extraction_engine/archive/plot_processed.jsonl
+trigger_extraction_engine/plot_processed_merged.jsonl
